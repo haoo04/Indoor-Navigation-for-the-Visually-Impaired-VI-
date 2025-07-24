@@ -25,4 +25,4 @@ The system is divided into **four modules**:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/haoo04/
+git clone https://github.com/haoo04/Indoor-Navigation-for-the-Visually-Impaired-VI-.git
